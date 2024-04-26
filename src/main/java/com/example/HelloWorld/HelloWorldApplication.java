@@ -8,7 +8,7 @@ public class HelloWorldApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloWorldApplication.class, args);
-		System.out.println("Testing change to see effect in pipeline");
+		System.out.println("Test change to see effect in pipeline");
 	}
 
 }
